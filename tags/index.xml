@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Lou&#39;s 2nd website</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Lou&#39;s 2nd website</description>
-    <image>
-      <url>papermod-cover.png</url>
-      <link>papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on 华东师范大学第二附属中学</title>
+    <link>https://www.hsefz.icu/tags/</link>
+    <description>Recent content in Tags on 华东师范大学第二附属中学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://www.hsefz.icu/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
